@@ -1,0 +1,11 @@
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.csprojAssemblyReference.cache
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.csproj.CoreCompileInputs.cache
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.AssemblyInfoInputs.cache
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.AssemblyInfo.cs
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/bin/Debug/netcoreapp2.1/12 Number Game.deps.json
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/bin/Debug/netcoreapp2.1/12 Number Game.runtimeconfig.json
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/bin/Debug/netcoreapp2.1/12 Number Game.runtimeconfig.dev.json
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/bin/Debug/netcoreapp2.1/12 Number Game.dll
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/bin/Debug/netcoreapp2.1/12 Number Game.pdb
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.dll
+/Users/isabelzhang/OneDrive - University of Waterloo/BME 121/Programming Assignments/12 Number Game/obj/Debug/netcoreapp2.1/12 Number Game.pdb
